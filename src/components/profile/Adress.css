@@ -1,0 +1,42 @@
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+.cont{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.input-icon {
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.makeStyles-root-17 > * {
+    width: 28ch !important;
+    margin: 8px;
+}
+.makeStyles-root-10 > * {
+    width: 28ch !important;
+    margin: 8px;
+}
+.makeStyles-root-14 > * {
+    width: 28ch !important;
+    margin: 8px;
+}
+.makeStyles-root > * {
+    width: 28ch !important;
+    margin: 8px;
+}
+.icon-msg{
+    padding-left: 20px;
+}
